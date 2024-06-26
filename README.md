@@ -102,7 +102,7 @@ Run this in the venv:
 
 ## Future Directions
 
-* Run search when user presses the RETURN key
+* Run search when user presses the RETURN key (Completed)
 * Add option to decrease `top_p` for more deterministic responses
 * Ways to "correct" the model over time
     * Ability to remove (i.e. block) incorrect sources from the database
